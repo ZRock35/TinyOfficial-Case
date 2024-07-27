@@ -14,6 +14,24 @@
 
 [Github](https://github.com/gorbit99/tiny-slime/)
 
+INSTRUCTIONS:
+
+1. Carefully unscrew the two screws of the Official Slime tracker, remove PCB and battery from the case.
+
+2. When fitting the battery, rotate it so the long wires are on the right side.
+
+IMPORTANT: FOAM PAD MUST BE
+BETWEEN PCB AND BATTERY!
+
+ Be very careful with the battery connector on the PCB too!
+
+TIP: I found shaping the wires first before putting it in helped, and a fingertip on the battery connector so it doesn't bend up when pushing the wires into place is recommended. (circled below)
+
+
+<img class="caseImage"
+     src="assets/img/battery.jpg" width="70%" height="70%"
+     alt="Case">
+
 <img class="caseImage"
      src="assets/img/TinyOfficial Case.JPG" width="50%" height="50%"
      alt="Case">
