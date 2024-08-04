@@ -12,6 +12,8 @@
 * I used PLA for this without issues.
 * Additional details for printing, if needed, can be found on Gorbit99's TinySlime repository!
 
+## NOTE: Updated to v1.1, made the clip groove on the bottom case smaller to avoid the tracker sliding side to side on it.
+
 TinySlime
 [Github](https://github.com/gorbit99/tiny-slime/)
 
@@ -38,6 +40,12 @@ TIP: I found shaping the wires first before putting it in helped, and a fingerti
      alt="Case">
 
 *TinyOfficial Case*
+
+<img class="caseImage"
+     src="assets/img/tinyofficialcase1_1.JPG" width="50%" height="50%"
+     alt="Case">
+
+*TinyOfficial Case v1.1*
 
 <img class="caseImage"
      src="assets/img/TinyOfficial Closed Top.JPG" width="50%" height="50%"
