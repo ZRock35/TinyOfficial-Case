@@ -1,5 +1,5 @@
 ## TinyOfficial SlimeVR Case
-*My edits of Gorbit99's TinySlime case to fit the Official SlimeVR PCB and battery, and an adaptation of Pixel_lily's's original clip design that works with it!*
+*My edits of Gorbit99's TinySlime case to fit the Official SlimeVR PCB and battery, and an adaptation of Pixel_lily's original clip design that works with it!*
 
 <img class="caseImage"
      src="assets/img/TinyOfficial.JPG" width="50%" height="50%"
