@@ -2,17 +2,24 @@
 *My edits of Gorbit99's TinySlime case to fit the Official SlimeVR PCB and battery, and an adaptation of Pixel_lily's original clip design that works with it!*
 
 <img class="caseImage"
-     src="assets/img/TinyOfficial.JPG" width="50%" height="50%"
+     src="assets/img/TinyOfficial1_2.JPG" width="50%" height="50%"
      alt="Case">
 
-* Very simple and tiny PCB case, designed to fit the Official SlimeVR PCB and battery with no modifications needed.
+     
+     
+
+* Very simple and tiny cases, designed to fit the Official SlimeVR PCB and battery with no modifications needed.
 * Open or closed top option, with clip backplate  allowing for easy removing.
+* v1.2 featured above, has angled straploops for optimal ankle use.
 * BNO085 Official PCB
 * SlimeVR's default standard Battery.
-* I used PLA for this without issues.
+* I used PLA at first, but PETG is better I found.
 * Additional details for printing, if needed, can be found on Gorbit99's TinySlime repository!
 
-## NOTE: Updated to v1.1, made the clip groove on the bottom case smaller to avoid the tracker sliding side to side on it.
+## NOTES:
+Updated to v1.1, made the clip groove on the bottom case smaller to avoid the tracker sliding side to side on it.
+
+Updated to v1.2, made the groove and clip parts on the bottom case longer to give more stability and durability. Clip has angled strap loops.
 
 TinySlime
 [Github](https://github.com/gorbit99/tiny-slime/)
