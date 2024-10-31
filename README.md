@@ -2,8 +2,7 @@
 *My edits of Gorbit99's TinySlime case to fit the Official SlimeVR PCB and battery, and an adaptation of Pixel_lily's original clip design that works with it!*
 
 <img class="caseImage"
-     src="assets/img/TinyOfficial1_2.JPG"
-     width="50%" height="50%"
+     src="assets/img/TinyOfficial1_2.jpg" width="50%" height="50%"
      alt="Case">
 
      
